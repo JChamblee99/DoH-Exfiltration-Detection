@@ -18,5 +18,9 @@ So while not explicitly detecting exfiltration right now, it can spot that Pytho
 Future developments later down the line should include tests of other exfiltration scripts,
 modifications to the python scripts, and fixing the horrible feature engineering scripts.
 
+# Acknowledgements
+* [Zachary Mueller - Fast.AI Lessons](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
+* [Starparm - Python DoH client](https://github.com/stamparm/python-doh)
+
 # License
 This project and its contents are open-source under the MIT License.
