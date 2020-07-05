@@ -1,4 +1,4 @@
-# DoH-Exfiltration-Detection
+# dohSense
 As DNS-over-HTTPS gets closer to being a standard, viewing it as a discrete exfiltration tool might be pretty appealing for attackers.
 Because of the imposed risk of abuse of data exfiltration and potentially command & control, I feel like it might be a bit interesting to at least look at.
 
